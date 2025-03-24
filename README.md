@@ -98,11 +98,15 @@ DeviceNetworkEvents
 ## Chronological Event Timeline 
 
 March 22, 202510:10:21 PM UTC - The file "tor-browser-windows-x86_64-portable-14.0.7.exe" was downloaded onto the device "huy-vm" by the user "huyrocks123."
+  
   10:26:12 PM UTC - The installer "tor-browser-windows-x86_64-portable-14.0.7.exe" was executed from "C:\Users\huyrocks123\Downloads" in a silent mode.
+  
   10:28:55 PM UTC - "tor.exe" successfully established a network connection over port 9001 to remote IP 46.231.93.216, indicating the activation of the Tor network.
+  
   10:29:30 PM UTC - Additional network connections were detected from "tor.exe" over port 443.
 
 March 23, 202502:27:11 AM UTC - The Tor browser was opened, leading to multiple processes spawning, including "firefox.exe" (Tor) and "tor.exe."
+  
   02:39:39 AM UTC - A file named "tor-shopping-list.txt" was created on the desktop, potentially containing user activity or notes related to Tor usage.
 
 ---
